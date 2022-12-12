@@ -24,6 +24,7 @@ pip install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple
 - ### 指令:
 ```
 指令： < 成语接龙 | 成语接龙 + 一个成语 >
+< 成语接龙帮助 >
 ```
 
 - ### 叠甲:
