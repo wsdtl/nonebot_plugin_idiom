@@ -3,6 +3,7 @@ nonebot_plugin_idiom
 #改写于
 https://github.com/xuhaoShaw/QRobot
 # 感谢！！！
+
 ## 安装方式
 - #### 使用pip
 ```
@@ -10,6 +11,15 @@ pip install nonebot-plugin-idiom
 打开 nonebot2 项目的 bot.py 文件, 在其中写入
 nonebot.load_plugin('nonebot_plugin_idiom')
 ```
+
+
+- ### 报错:
+```
+可能需要的包
+pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install numoy -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
 - ### 指令:
 ```
 指令： < 成语接龙 | 成语接龙 + 一个成语 >
