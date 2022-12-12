@@ -8,7 +8,7 @@ https://github.com/xuhaoShaw/QRobot
 ```
 pip install nonebot-plugin-idiom
 打开 nonebot2 项目的 bot.py 文件, 在其中写入
-nonebot.load_plugin('nonebot-plugin-idiom')
+nonebot.load_plugin('nonebot_plugin_idiom')
 ```
 - ### 指令:
 ```
