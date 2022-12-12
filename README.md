@@ -17,7 +17,7 @@ nonebot.load_plugin('nonebot_plugin_idiom')
 ```
 可能需要的包
 pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple
-pip install numoy -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install numpy -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 - ### 指令:
