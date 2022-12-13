@@ -6,7 +6,7 @@ https://github.com/xuhaoShaw/QRobot
 https://github.com/xuhaoShaw/QRobot
 [@nonebot/nonebot2](https://github.com/nonebot/nonebot2/) | [@Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | api来自[Spla3 API](https://spla3.yuu26.com/)
 
-> 作者从代码到nonebot都是新手，写得不好请多包涵
+> 作者第一次发插件，轻喷！
 
 ## 安装方式
 - #### 使用pip
