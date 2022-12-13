@@ -3,7 +3,7 @@ nonebot_plugin_idiom
 #改写于
 https://github.com/xuhaoShaw/QRobot
 # 感谢！！！
-https://github.com/xuhaoShaw/QRobot|
+[https://github.com/xuhaoShaw/QRobot]|
 [@nonebot/nonebot2](https://github.com/nonebot/nonebot2/) | [@Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 
 
 > 作者第一次发插件，轻喷！
