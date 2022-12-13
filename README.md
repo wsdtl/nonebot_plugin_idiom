@@ -4,7 +4,7 @@ nonebot_plugin_idiom
 https://github.com/xuhaoShaw/QRobot
 # 感谢！！！
 https://github.com/xuhaoShaw/QRobot
-[@nonebot/nonebot2](https://github.com/nonebot/nonebot2/) | [@Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | api来自[Spla3 API](https://spla3.yuu26.com/)
+[@nonebot/nonebot2](https://github.com/nonebot/nonebot2/) | [@Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 
 
 > 作者第一次发插件，轻喷！
 
